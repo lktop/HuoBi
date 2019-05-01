@@ -1,0 +1,10 @@
+#格式币种法币 例如
+actusdt
+adausdt
+aeusdt
+bchusdt
+bixusdt
+bsvusdt
+btcusdt
+btmusdt
+btsusdt
